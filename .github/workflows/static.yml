@@ -22,10 +22,9 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20' # 보스의 로컬 환경에 맞게 조정 가능합니다.
+          node-version: '20'
           cache: 'npm'
 
-      # 2. 의존성 설치 및 빌드
       - name: Install and Build
         run: |
           npm install
@@ -37,7 +36,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # 빌드 결과물이 dist 폴더에 생성된다면 그대로 유지하십시오.
+          # Vite의 기본 빌드 출력 폴더인 dist를 지정합니다.
           path: './dist'
 
       - name: Deploy to GitHub Pages
