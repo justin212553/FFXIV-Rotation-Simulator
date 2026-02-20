@@ -1,0 +1,5 @@
+{
+  "name": "파판 딜사이클 빌드",
+  "description": "A high-performance rotation planning tool for FFXIV players, featuring timeline-based GCD/oGCD weaving and buff tracking for the Dragoon (용기사) job, powered by Gemini for rotation analysis.",
+  "requestFramePermissions": []
+}
