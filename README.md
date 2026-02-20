@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" alt="FFXIV banner" src="https://i.namu.wiki/i/Z5-AQaZO8UVtkWBpysmzlZvyjJ0E_SJCt5yHhc8d5di50Ys6gVZ7ZFTME2N6zX4p_exmAPqIjqHt7d8B3L6xED2CDD9qjbNwQvyLZlyj0XYdNYJlKpqUS5LPQDz-R_B1PUaQLd9ELD4qX9TQyZHqgw.webp" />
+<img width="1200" alt="FFXIV banner" src="https://pbs.twimg.com/media/HBl46FNa8AAtq43?format=jpg&name=4096x4096" />
 </div>
 
 # FFXIV Rotation Simulator
